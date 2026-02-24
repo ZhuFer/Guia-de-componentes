@@ -1,10 +1,10 @@
-# Guía y Calculadora de Componentes Electrónicos ⚡
+# Guía y Calculadora de Componentes Electrónicos 
 
-Calculadora interactiva con interfaz gráfica (GUI) desarrollada en Python para facilitar la interpretación y el cálculo de valores nominales de componentes pasivos. 
+Calculadora interactiva con interfaz gráfica desarrollada en Python para facilitar la interpretación y el cálculo de valores nominales de componentes pasivos. 
 
 Este proyecto fue desarrollado originalmente como herramienta de apoyo computacional para el Laboratorio de Electrónica (Facultad de Ciencias, UNAM), permitiendo comprobar de manera rápida los valores teóricos obtenidos en la práctica.
 
-## ✨ Características Principales
+##  Características Principales
 
 * **Resistores:** Cálculo del valor óhmico y tolerancia mediante código de colores (soporta lectura por bandas).
 * **Capacitores:** Interpretación de códigos numéricos (ej. 104, 473) para obtener la capacitancia en unidades escaladas (µF, nF, pF).
@@ -14,7 +14,7 @@ Este proyecto fue desarrollado originalmente como herramienta de apoyo computaci
 
 ---
 
-## 🚀 Cómo usar el programa
+##  Cómo usar el programa
 
 Tienes dos formas de ejecutar esta herramienta, dependiendo de si eres usuario final o desarrollador.
 
