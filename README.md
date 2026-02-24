@@ -20,8 +20,8 @@ Tienes dos formas de ejecutar esta herramienta, dependiendo de si eres usuario f
 
 ### Opción 1: Usar el Ejecutable (.exe) - *Recomendado para Windows*
 No necesitas instalar Python ni configurar nada. 
-1. Ve a la sección de **Releases** (a la derecha de esta página).
-2. Descarga el archivo `.exe` más reciente.
+1. Ve a la sección de **Code** (a la derecha de esta página).
+2. Descarga el archivo `.zip`.
 3. Haz doble clic en el archivo descargado para abrir la calculadora.
 
 ### Opción 2: Ejecutar desde el código fuente
